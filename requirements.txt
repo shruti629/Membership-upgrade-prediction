@@ -2,8 +2,12 @@ pandas
 numpy
 matplotlib
 scikit-learn
-streamlit
 seaborn 
 imblearn
 xgboost
 shap
+streamlit==1.32.0
+altair==4.2.2
+shap
+joblib
+
